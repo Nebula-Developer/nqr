@@ -1,0 +1,2 @@
+This is an example of a txt file that is being stored as an image with the NQR formula
+It contains a newline
